@@ -4,8 +4,8 @@
 # Site settings
 title: Data Science Aberdeen
 description:
-  Experimenting with data<br> in Granite city
-owner: CodeLabOC # or company name
+  Experimenting with data<br> in the Granite city
+owner:  # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: datascienceaberdeen@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
